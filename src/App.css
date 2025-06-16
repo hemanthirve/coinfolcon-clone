@@ -10,7 +10,10 @@ body {
 
 .navigation {
   display: flex;
-  justify-content: space-between;
+ 
+}
+.navigation {
+   justify-content: space-between;
 }
 
 .navbar {
